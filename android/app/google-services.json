@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930306337916",
+    "project_id": "petapoinmentapp",
+    "storage_bucket": "petapoinmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930306337916:android:60674daced9d48d258edf9",
+        "android_client_info": {
+          "package_name": "com.example.pet_appoinment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930306337916-lhm355aqq1pv00m0v6ihaie5s91bh044.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaqsHURY8DF73f9UTIcaCLo88bOYuJ_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930306337916-lhm355aqq1pv00m0v6ihaie5s91bh044.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
